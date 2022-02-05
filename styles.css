@@ -1,0 +1,11 @@
+body { background: #ffffff; margin: 0; font-family: Times New Roman; font-size: 12pt; font-style: normal; }
+tr.R4{ height: 47px; }
+tr.R4 td.R4C0{ font-family: Times New Roman; font-size: 14pt; font-style: normal; text-align: left; }
+tr.R6{ height: 25px; }
+tr.R6 td.R21C2{ font-family: Times New Roman; font-size: 12pt; font-style: normal; text-align: left; }
+tr.R6 td.R6C0{ font-family: Times New Roman; font-size: 14pt; font-style: normal; font-weight: bold; text-align: left; }
+tr.R6 td.R8C0{ font-family: Times New Roman; font-size: 14pt; font-style: normal; text-align: left; }
+tr.R6 td.R9C0{ font-family: Times New Roman; font-size: 14pt; font-style: normal; text-align: left; vertical-align: top; }
+tr.R6 td.R9C5{ font-family: Times New Roman; font-size: 14pt; font-style: normal; text-align: left; vertical-align: top; }
+table {table-layout: fixed; padding: 0px; padding-left: 2px; vertical-align:bottom; border-collapse:collapse;width: 100%; font-family: Times New Roman; font-size: 12pt; font-style: normal; }
+td { padding: 0px; padding-left: 2px; overflow:hidden; }
